@@ -1,0 +1,16 @@
+c:\Measurement\MeasWindowsServerTime\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\Measurement\MeasWindowsServerTime\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\Measurement\MeasWindowsServerTime\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\Measurement\MeasWindowsServerTime\ConsoleApplication1\bin\Debug\M2Mqtt.Net.dll
+c:\Measurement\MeasWindowsServerTime\ConsoleApplication1\bin\Debug\M2Mqtt.Net.pdb
+c:\Measurement\MeasWindowsServerTime\ConsoleApplication1\obj\Debug\Measurement.csprojResolveAssemblyReference.cache
+c:\Measurement\MeasWindowsServerTime\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\Measurement\MeasWindowsServerTime\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Measurement\Subscriber\MeasWindowsServerTime\ConsoleApplication1\bin\Debug\SubscriberConsoleApplication1.exe.config
+C:\Measurement\Subscriber\MeasWindowsServerTime\ConsoleApplication1\bin\Debug\SubscriberConsoleApplication1.exe
+C:\Measurement\Subscriber\MeasWindowsServerTime\ConsoleApplication1\bin\Debug\SubscriberConsoleApplication1.pdb
+C:\Measurement\Subscriber\MeasWindowsServerTime\ConsoleApplication1\bin\Debug\M2Mqtt.Net.dll
+C:\Measurement\Subscriber\MeasWindowsServerTime\ConsoleApplication1\bin\Debug\M2Mqtt.Net.pdb
+C:\Measurement\Subscriber\MeasWindowsServerTime\ConsoleApplication1\obj\Debug\Measurement.csprojResolveAssemblyReference.cache
+C:\Measurement\Subscriber\MeasWindowsServerTime\ConsoleApplication1\obj\Debug\SubscriberConsoleApplication1.exe
+C:\Measurement\Subscriber\MeasWindowsServerTime\ConsoleApplication1\obj\Debug\SubscriberConsoleApplication1.pdb
