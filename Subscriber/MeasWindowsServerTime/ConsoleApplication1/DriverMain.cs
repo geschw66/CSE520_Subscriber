@@ -36,7 +36,7 @@ namespace Measurement
       {
          Console.Write("SUBSCRIBING:");
          //convert to pfx using openssl.
-         var clientCert = new X509Certificate2(@"C:\OutOfOffice\OUTOFOFFICEPFX.pfx", "9wustlI2016");
+         var clientCert = new X509Certificate2(@"cert stuff goes here", "pwd goes here.");
 
          //this is the AWS caroot.pem file.
          var caCert = X509Certificate.CreateFromSignedFile(@"C:\OutOfOffice\rootCA.pem");
